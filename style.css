@@ -1,0 +1,9 @@
+#container{
+    height:500px;
+    width: 500px;
+    background-color: blue;
+}
+.mainCont{
+    display: flex;
+    flex-direction: row;
+}
